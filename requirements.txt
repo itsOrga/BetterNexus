@@ -1,0 +1,7 @@
+discord
+py-cord
+pymongo
+pymongo[srv]
+dis-uniter
+requests
+pillow
