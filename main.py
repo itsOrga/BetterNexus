@@ -32,4 +32,4 @@ for file in os.listdir("./cogs/evts"):
 
 
 bot.loop.create_task(bot_activity())
-bot.run("MTAzMzA5NjExNDc1ODQ5NjMyNw.GXs7_Q.4C4CF3pWXvn8hjE347rM0voMIvmQPclhCGPNvQ")
+bot.run("")
